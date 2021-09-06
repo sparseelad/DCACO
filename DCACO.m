@@ -3,6 +3,7 @@ function [mu_A,mu_newA,newA]=DCACO(A,rho,iter)
 %==================================================================
 %This Script implements DCACO described in Algorithm 2 in our paper.
 
+%Author: Yongchao Yu
 %===================================================================
 
 
